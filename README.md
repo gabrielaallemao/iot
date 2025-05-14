@@ -87,16 +87,16 @@ O projeto é programado utilizando o VSCode com as extensões PlatformIO IDE e S
 7. Abrir o Serial Monitor (conectado à porta usb correta) para visualizar os dados.
 
 ## 📄 <a name="documentacoes"></a> Documentações
-[ATmega328](https://docs.platformio.org/en/latest/boards/atmelavr/ATmega328P.html)
-[DHT 11](https://learn.adafruit.com/dht/overview)
-[ESP 8266](https://arduino-esp8266.readthedocs.io/en/latest/)
-[Fritzing](https://fritzing.org/learning/)
-[Visual Studio Code](https://code.visualstudio.com/docs)
-[PlatformIO IDE](https://docs.platformio.org/en/latest/integration/ide/vscode.html)
-[Serial Monitor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor)
-[HiveMQ](https://docs.hivemq.com/hivemq/latest/user-guide/index.html)
-[MQTT](https://mqtt.org/)
-[Node-RED](https://nodered.org/docs/)
+[ATmega328](https://docs.platformio.org/en/latest/boards/atmelavr/ATmega328P.html)  
+[DHT 11](https://learn.adafruit.com/dht/overview)  
+[ESP 8266](https://arduino-esp8266.readthedocs.io/en/latest/)  
+[Fritzing](https://fritzing.org/learning/)  
+[Visual Studio Code](https://code.visualstudio.com/docs)  
+[PlatformIO IDE](https://docs.platformio.org/en/latest/integration/ide/vscode.html)  
+[Serial Monitor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor)  
+[HiveMQ](https://docs.hivemq.com/hivemq/latest/user-guide/index.html)  
+[MQTT](https://mqtt.org/)  
+[Node-RED](https://nodered.org/docs/)  
 
 ## 👩🏻‍🚀 <a name="autoras"></a>Autoras  
 Gabriela Faria Allemão  
