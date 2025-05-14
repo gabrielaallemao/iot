@@ -1,6 +1,5 @@
 # Sistema de monitoramento remoto de reservatório de água
 
-Navegação |   
 💡 [Descrição do Projeto](#descricao) |   
 💻 [Software Desenvolvido](#software) |   
 ⚙️ [Hardware Utilizado](#hardware) |   
@@ -29,7 +28,7 @@ O software do projeto é composto por duas partes principais:
 * Controla o acionamento do LED de alerta.
 * Envia os dados coletados para o módulo ESP8266.   
 
-**Código do Módulo ESP8266:** 
+**Código do Módulo ESP8266:**  
 * Responsável pela comunicação com a rede Wi-Fi.
 * Implementa a comunicação TCP/IP e o protocolo MQTT.
 * Envia os dados dos sensores para um servidor ou plataforma de IoT.
