@@ -32,6 +32,7 @@ O software do projeto é composto por duas partes principais:
 * Responsável pela comunicação com a rede Wi-Fi.
 * Implementa a comunicação TCP/IP e o protocolo MQTT.
 * Envia os dados dos sensores para um servidor ou plataforma de IoT.
+
 ### Documentação do Código:
 O código-fonte completo, incluindo comentários detalhados, está disponível no repositório do GitHub. A documentação abrange:
 * Estrutura do código e organização dos arquivos.
@@ -50,6 +51,8 @@ O código-fonte completo, incluindo comentários detalhados, está disponível n
 * **Protoboard:** Utilizada para montar o circuito eletrônico.
 * **Jumpers:** Utilizados para conectar os componentes eletrônicos.
 * **Fonte de Alimentação:** Utilizada para alimentar o sistema.
+
+![Modelo de Montagem](https://github.com/gabrielaallemao/iot/blob/main/IOT_PrototipoFritzing.png)
 
 ## 📡 <a name="interfaces"></a> Protocolos e Módulos de Comunicação
 * **Serial/USB:** Comunicação entre o Arduino e o computador via USB para programação e monitoramento através do Serial Monitor do PlatformIO.
