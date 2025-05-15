@@ -102,6 +102,9 @@ O projeto é programado utilizando o VSCode com as extensões PlatformIO IDE e S
 [Node-RED](https://nodered.org/docs/)  
 
 ## 👩🏻‍🚀 <a name="autoras"></a>Autoras  
-Gabriela Faria Allemão  
-Olivia Helena Borges Silva  
-Roberta Lima Santos
+Gabriela Faria Allemão - 10414610   
+Olivia Helena Borges Silva - 10295013   
+Roberta Lima Santos - 10415069   
+
+Faculdade de Computação e Informática   
+Universidade Presbiteriana Mackenzie (UPM) – São Paulo, SP – Brasil   
